@@ -4,7 +4,7 @@
 bl_info = {
     "name": "Helping Hand",
     "author": "HITANSH3D",
-    "version": (0, 2, 1), # Patch fix: Fixed renaming conflict bug
+    "version": (0, 2, 3), # Patch fix: Updater logic and text cleanup
     "blender": (2, 80, 0),
     "location": "View3D > Sidebar > Helping Hand",
     "description": "Tools for instancing, sorting, and batch renaming objects.",
